@@ -1,6 +1,6 @@
 {
   "name": "vue-touch-simple",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "description": "基于vue的指令手势集，拿来即用，方便小巧快捷",
   "main": "index.js",
   "scripts": {
