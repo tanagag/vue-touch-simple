@@ -1,13 +1,16 @@
     # vue-touch-simple #
+
     **使用方法：**
-    ```<div>
+
+        npm install vue-touch-simple -S
+    ```
         <p>-1- 安装 npm install vue-touch-simple -S</p>
         <p>-2- main.js中 </p>
         <p>   import Touch from 'vue-touch-simple'</p>
         <p>   Vue.use(Touch) //use一下（前提引入先Vue）</p>
         <p>-3- 代码中示例</p>
-    </div>```
-
+    ```
+    
        ```
 		<template>
             <div>
