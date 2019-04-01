@@ -1,0 +1,19 @@
+{
+  "name": "vue-touch-simple",
+  "version": "1.0.21",
+  "description": "基于vue指令的手势图，拿来即用，方便小巧快捷",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-touch指令集",
+    "swipetop",
+    "swiperight",
+    "swipebottom",
+    "swipeleft",
+    "longPress"
+  ],
+  "author": "tanzheng",
+  "license": "ISC"
+}
